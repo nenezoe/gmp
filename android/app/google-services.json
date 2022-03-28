@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51022051763",
+    "project_id": "appmap-b1473",
+    "storage_bucket": "appmap-b1473.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51022051763:android:f8d26be7c81c44d630b3c6",
+        "android_client_info": {
+          "package_name": "app_flutter_goggle_map.example.app_google_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51022051763-k3trn4hqqcudcdglh3lavm4ppcflemko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6W7QTxph2UhlHtXdxi0ROoEGAHje9SE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51022051763-k3trn4hqqcudcdglh3lavm4ppcflemko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
